@@ -1,0 +1,78 @@
+/*FONTS LINKS*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    
+}
+body{
+    background-color: rgb(193, 227, 249);
+}
+
+h1{
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 45px;
+  padding-left: 570px;
+  padding-top: 100px;
+}
+
+.firstone{
+    background-color: rgb(107, 65, 3);
+    width: 400px;
+    height: 100px;
+    font-size: 30px;
+    margin-left: 550px;
+    padding-top: 20px;
+}
+
+.secondone{
+    background-color: rgb(107, 65, 3);
+    width: 400px;
+    height: 100px;
+    font-size: 30px;
+    color: black;
+    margin-left: 550px;
+}
+
+#value{
+    width: 130px;
+    height: 50px;
+    font-size: 15px;
+}
+
+.to{
+    width: 400px;
+    height: 100px;
+    font-size: 30px;
+    color: black;
+    margin-left: 550px;
+    background-color: rgb(107, 65, 3);
+}
+
+.convert{
+    width: 400px;
+    height: 100px;
+    color: black;
+    margin-left: 550px;
+    background-color: rgb(107, 65, 3);
+}
+
+#fromunit{
+    width: 130px;
+    height: 50px;
+    font-size: 15px
+}
+
+#tounit{
+    width: 130px;
+    height: 50px;
+    font-size: 15px
+}
+
+.convert button{
+    width: 130px;
+    height: 50px;
+    font-size: 15px;
+}
